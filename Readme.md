@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Cаша Туманов](https://up.htmlacademy.ru/htmlcss/33/user/1989507).
-* Наставник: [Павел Нюкало] (https://htmlacademy.ru/profile/nyukalopavel)
+* Наставник: [Павел Нюкало](https://htmlacademy.ru/profile/nyukalopavel)
 
 ---
 
